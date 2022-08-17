@@ -30,7 +30,7 @@ It requires Python 3.*/Tensorflow.
 3.Create environment
 
     '''
-    conda create -n disc python=3.5
+    conda create -n disc python=3.6
     source activate disc
     python setup.py install
     '''
